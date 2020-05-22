@@ -1,0 +1,7 @@
+{
+    "mongoURI": {
+        "localhost": "DB_LOCAL",
+        "staging": "DB_DEV",
+        "production": "DB_PROD"
+    }
+}
