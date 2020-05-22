@@ -1,0 +1,40 @@
+[
+  {
+    "id": 0,
+    "date_created": "2020-04-09T11:33:24.141Z",
+    "location": "Pakistan"
+  },
+  {
+    "id": 1,
+    "date_created": "2020-04-29T09:38:45.758Z",
+    "location": "Papua New Guinea"
+  },
+  {
+    "id": 2,
+    "date_created": "2020-04-25T09:01:41.700Z",
+    "location": "Djibouti"
+  },
+  {
+    "id": 3,
+    "date_created": "2020-03-08T14:34:19.257Z",
+    "location": "Slovenia"
+  },
+  { "id": 4, "date_created": "2020-02-02T09:21:41.872Z", "location": "Iran" },
+  {
+    "id": 5,
+    "date_created": "2020-04-18T02:25:01.481Z",
+    "location": "Netherlands Antilles"
+  },
+  {
+    "id": 6,
+    "date_created": "2020-02-06T12:38:44.134Z",
+    "location": "Tajikistan"
+  },
+  {
+    "id": 7,
+    "date_created": "2020-04-08T07:01:48.693Z",
+    "location": "Zimbabwe"
+  },
+  { "id": 8, "date_created": "2020-05-04T04:22:11.173Z", "location": "India" },
+  { "id": 9, "date_created": "2020-04-23T06:08:05.029Z", "location": "Guyana" }
+]
